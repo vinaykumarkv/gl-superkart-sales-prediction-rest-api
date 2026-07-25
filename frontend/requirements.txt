@@ -1,0 +1,4 @@
+# Pinned dependency versions for the Streamlit frontend space
+streamlit==1.29.0
+requests==2.32.3
+pandas==2.2.2
